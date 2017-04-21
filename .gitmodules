@@ -1,0 +1,12 @@
+[submodule "ui-confirm-link"]
+	path = ui-confirm-link
+	url = git@github.com:edouard-lopez/ui-confirm-link.git
+[submodule "ui-phone-ribbon"]
+	path = ui-phone-ribbon
+	url = git@github.com:edouard-lopez/ui-phone-ribbon.git
+[submodule "ui-password-strength"]
+	path = ui-password-strength
+	url = git@github.com:edouard-lopez/ui-password-strength.git
+[submodule "ui-password-toggle"]
+	path = ui-password-toggle
+	url = git@github.com:edouard-lopez/ui-password-toggle.git
